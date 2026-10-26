@@ -1,0 +1,8 @@
+# Pinned to deliberately OLD, known-vulnerable versions so the SCA scan finds CVEs.
+requests==2.19.1
+PyYAML==5.1
+Flask==0.12.2
+Jinja2==2.10
+Werkzeug==0.14.1
+urllib3==1.24.1
+cryptography==2.3
